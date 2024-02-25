@@ -1,0 +1,21 @@
+[
+    {
+      "qualification": "B-Tech",
+      "institution":"Malla Reddy University",
+      "year": "2022 - present",
+      "percentile":"8.1"
+    },
+    {
+      "qualification": "Intermediate",
+      "institution":"Sri Chaitanya Junior College",
+      "year": "2020 - 2022",
+      "percentile":"92.8"
+
+    },
+    {
+      "qualification": "Sri Chaitanya Junior College",
+      "institution":"St. Arnolds High School",
+      "year": "2020",
+      "percentile": "10"
+    }
+  ]
